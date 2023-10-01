@@ -227,3 +227,30 @@ time 1696135733
 old [description:"weekly review" entry:"1696120938" modified:"1696120938" status:"pending" uuid:"097f4156-9c7b-4ab5-be33-a01b95ae8e6e"]
 new [description:"weekly review" end:"1696135733" entry:"1696120938" modified:"1696135733" status:"completed" uuid:"097f4156-9c7b-4ab5-be33-a01b95ae8e6e"]
 ---
+time 1696140676
+old [description:"pcb-layout" entry:"1696121024" estimate:"1.5" modified:"1696124005" priority:"L" project:"sytronics.board" status:"pending" uuid:"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"]
+new [description:"pcb-layout" end:"1696140676" entry:"1696121024" estimate:"1.5" modified:"1696140676" priority:"L" project:"sytronics.board" status:"completed" uuid:"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"]
+---
+time 1696140681
+old [description:"get footprints" entry:"1696121035" estimate:"1.5" modified:"1696124005" priority:"L" project:"sytronics.board" status:"pending" uuid:"a2f2dc76-3a40-4019-98d5-baaddfce324c"]
+new [description:"get footprints" end:"1696140681" entry:"1696121035" estimate:"1.5" modified:"1696140681" priority:"L" project:"sytronics.board" status:"completed" uuid:"a2f2dc76-3a40-4019-98d5-baaddfce324c"]
+---
+time 1696140756
+new [description:"pcb layout project sytronics.board" entry:"1696140756" modified:"1696140756" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
+time 1696140802
+old [description:"pcb layout project sytronics.board" entry:"1696140756" modified:"1696140756" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"pcb layout" entry:"1696140756" modified:"1696140802" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
+time 1696140815
+old [description:"schematic" entry:"1696121013" estimate:"1.5" modified:"1696124005" priority:"L" project:"sytronics.board" status:"pending" uuid:"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"]
+new [description:"schematic" end:"1696140815" entry:"1696121013" estimate:"1.5" modified:"1696140815" priority:"L" project:"sytronics.board" status:"completed" uuid:"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"]
+---
+time 1696141101
+old [description:"pcb layout" entry:"1696140756" modified:"1696140802" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"pcb layout" entry:"1696140756" modified:"1696141101" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
+time 1696141131
+old [description:"pcb layout" entry:"1696140756" modified:"1696141101" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"pcb layout" entry:"1696140756" estimate:"2" modified:"1696141131" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---

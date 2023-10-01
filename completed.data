@@ -1,3 +1,6 @@
+[description:"schematic" end:"1696140815" entry:"1696121013" estimate:"1.5" modified:"1696140815" priority:"L" project:"sytronics.board" status:"completed" uuid:"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"]
+[description:"pcb-layout" end:"1696140676" entry:"1696121024" estimate:"1.5" modified:"1696140676" priority:"L" project:"sytronics.board" status:"completed" uuid:"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"]
+[description:"get footprints" end:"1696140681" entry:"1696121035" estimate:"1.5" modified:"1696140681" priority:"L" project:"sytronics.board" status:"completed" uuid:"a2f2dc76-3a40-4019-98d5-baaddfce324c"]
 [description:"weekly review" end:"1696135733" entry:"1696120938" modified:"1696135733" status:"completed" uuid:"097f4156-9c7b-4ab5-be33-a01b95ae8e6e"]
 [description:"weekly review" end:"1696135716" entry:"1696121537" estimate:"0.75" modified:"1696135716" priority:"H" project:"home.personal" status:"completed" uuid:"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"]
 [description:"bathroom" end:"1696135695" entry:"1696123365" estimate:"0.2" modified:"1696135695" priority:"M" project:"home.clean" status:"completed" uuid:"053c64c1-e408-4e2d-b2f9-5ce407d349a8"]

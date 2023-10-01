@@ -60,3 +60,10 @@
 {"description":"bathroom","end":"20231001T044815Z","entry":"20231001T012245Z","estimate":0.2,"modified":"20231001T044815Z","priority":"M","project":"home.clean","status":"completed","uuid":"053c64c1-e408-4e2d-b2f9-5ce407d349a8"}
 {"description":"weekly review","end":"20231001T044836Z","entry":"20231001T005217Z","estimate":0.75,"modified":"20231001T044836Z","priority":"H","project":"home.personal","status":"completed","uuid":"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"}
 {"description":"weekly review","end":"20231001T044853Z","entry":"20231001T004218Z","modified":"20231001T044853Z","status":"completed","uuid":"097f4156-9c7b-4ab5-be33-a01b95ae8e6e"}
+{"description":"pcb-layout","end":"20231001T061116Z","entry":"20231001T004344Z","estimate":1.5,"modified":"20231001T061116Z","priority":"L","project":"sytronics.board","status":"completed","uuid":"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"}
+{"description":"get footprints","end":"20231001T061121Z","entry":"20231001T004355Z","estimate":1.5,"modified":"20231001T061121Z","priority":"L","project":"sytronics.board","status":"completed","uuid":"a2f2dc76-3a40-4019-98d5-baaddfce324c"}
+{"description":"pcb layout project sytronics.board","entry":"20231001T061236Z","modified":"20231001T061236Z","status":"pending","uuid":"e466ecde-2ecd-4454-b5ed-1d061517b83d"}
+{"description":"pcb layout","entry":"20231001T061236Z","modified":"20231001T061322Z","project":"sytronics.board","status":"pending","uuid":"e466ecde-2ecd-4454-b5ed-1d061517b83d"}
+{"description":"schematic","end":"20231001T061335Z","entry":"20231001T004333Z","estimate":1.5,"modified":"20231001T061335Z","priority":"L","project":"sytronics.board","status":"completed","uuid":"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"}
+{"description":"pcb layout","entry":"20231001T061236Z","modified":"20231001T061821Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"e466ecde-2ecd-4454-b5ed-1d061517b83d"}
+{"description":"pcb layout","entry":"20231001T061236Z","estimate":2,"modified":"20231001T061851Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"e466ecde-2ecd-4454-b5ed-1d061517b83d"}
