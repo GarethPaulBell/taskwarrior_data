@@ -68,3 +68,4 @@
 {"description":"pcb layout","entry":"20231001T061236Z","modified":"20231001T061821Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"e466ecde-2ecd-4454-b5ed-1d061517b83d"}
 {"description":"pcb layout","entry":"20231001T061236Z","estimate":2,"modified":"20231001T061851Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"e466ecde-2ecd-4454-b5ed-1d061517b83d"}
 {"description":"clean car","end":"20231001T085755Z","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T085755Z","priority":"M","project":"home.transport","status":"completed","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"shine shoes","entry":"20231001T090046Z","modified":"20231001T090046Z","status":"pending","uuid":"2e002002-6fd2-475a-9d06-3546563854dd"}

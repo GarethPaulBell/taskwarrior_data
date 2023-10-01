@@ -258,3 +258,6 @@ time 1696150675
 old [description:"clean car" entry:"1696120887" estimate:"0.2" modified:"1696124166" priority:"M" project:"home.transport" status:"pending" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
 new [description:"clean car" end:"1696150675" entry:"1696120887" estimate:"0.2" modified:"1696150675" priority:"M" project:"home.transport" status:"completed" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
 ---
+time 1696150846
+new [description:"shine shoes" entry:"1696150846" modified:"1696150846" status:"pending" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
+---
