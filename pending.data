@@ -1,6 +1,5 @@
 [description:"fix bike" entry:"1696120878" modified:"1696120878" project:"home.transport" status:"pending" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
-[description:"clean car" end:"1696150675" entry:"1696120887" estimate:"0.2" modified:"1696150675" priority:"M" project:"home.transport" status:"completed" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
 [description:"get breakfast\/lunch" entry:"1696121569" estimate:"0.65" modified:"1696123789" priority:"H" project:"home.food" status:"pending" uuid:"3d476552-ade0-4482-b247-d43e7751ec57"]
 [description:"pcb layout" entry:"1696140756" estimate:"2" modified:"1696141131" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
-[description:"shine shoes" entry:"1696150846" modified:"1696150846" status:"pending" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
-[description:"shine new shoes" entry:"1696150975" modified:"1696150975" status:"pending" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
+[description:"send invite to JS\/CS for dinner" entry:"1696152560" modified:"1696152560" status:"pending" tags:"social" tags_social:"x" uuid:"f7da87bd-cc6b-4f61-8203-940d2faa5025"]
+[description:"water plants" entry:"1696152681" modified:"1696152681" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]

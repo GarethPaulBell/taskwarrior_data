@@ -1,3 +1,6 @@
+[description:"shine shoes" end:"1696152625" entry:"1696150846" modified:"1696152628" status:"deleted" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
+[description:"shine new shoes" end:"1696152628" entry:"1696150975" modified:"1696152629" status:"deleted" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
+[description:"clean car" end:"1696150675" entry:"1696120887" estimate:"0.2" modified:"1696150675" priority:"M" project:"home.transport" status:"completed" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
 [description:"schematic" end:"1696140815" entry:"1696121013" estimate:"1.5" modified:"1696140815" priority:"L" project:"sytronics.board" status:"completed" uuid:"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"]
 [description:"pcb-layout" end:"1696140676" entry:"1696121024" estimate:"1.5" modified:"1696140676" priority:"L" project:"sytronics.board" status:"completed" uuid:"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"]
 [description:"get footprints" end:"1696140681" entry:"1696121035" estimate:"1.5" modified:"1696140681" priority:"L" project:"sytronics.board" status:"completed" uuid:"a2f2dc76-3a40-4019-98d5-baaddfce324c"]

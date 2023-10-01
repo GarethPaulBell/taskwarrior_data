@@ -264,3 +264,17 @@ new [description:"shine shoes" entry:"1696150846" modified:"1696150846" status:"
 time 1696150975
 new [description:"shine new shoes" entry:"1696150975" modified:"1696150975" status:"pending" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
 ---
+time 1696152560
+new [description:"send invite to JS\/CS for dinner" entry:"1696152560" modified:"1696152560" status:"pending" tags:"social" tags_social:"x" uuid:"f7da87bd-cc6b-4f61-8203-940d2faa5025"]
+---
+time 1696152628
+old [description:"shine shoes" entry:"1696150846" modified:"1696150846" status:"pending" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
+new [description:"shine shoes" end:"1696152625" entry:"1696150846" modified:"1696152628" status:"deleted" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
+---
+time 1696152629
+old [description:"shine new shoes" entry:"1696150975" modified:"1696150975" status:"pending" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
+new [description:"shine new shoes" end:"1696152628" entry:"1696150975" modified:"1696152629" status:"deleted" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
+---
+time 1696152681
+new [description:"water plants" entry:"1696152681" modified:"1696152681" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
+---

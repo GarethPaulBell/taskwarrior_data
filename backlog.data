@@ -70,3 +70,7 @@
 {"description":"clean car","end":"20231001T085755Z","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T085755Z","priority":"M","project":"home.transport","status":"completed","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
 {"description":"shine shoes","entry":"20231001T090046Z","modified":"20231001T090046Z","status":"pending","uuid":"2e002002-6fd2-475a-9d06-3546563854dd"}
 {"description":"shine new shoes","entry":"20231001T090255Z","modified":"20231001T090255Z","status":"pending","uuid":"8d229624-1a2c-4420-b93c-e1cf138277e0"}
+{"description":"send invite to JS\/CS for dinner","entry":"20231001T092920Z","modified":"20231001T092920Z","status":"pending","uuid":"f7da87bd-cc6b-4f61-8203-940d2faa5025","tags":["social"]}
+{"description":"shine shoes","end":"20231001T093025Z","entry":"20231001T090046Z","modified":"20231001T093028Z","status":"deleted","uuid":"2e002002-6fd2-475a-9d06-3546563854dd"}
+{"description":"shine new shoes","end":"20231001T093028Z","entry":"20231001T090255Z","modified":"20231001T093029Z","status":"deleted","uuid":"8d229624-1a2c-4420-b93c-e1cf138277e0"}
+{"description":"water plants","entry":"20231001T093121Z","modified":"20231001T093121Z","project":"home","status":"pending","uuid":"94a125b2-944d-43c6-85b7-85539dfbe10a"}
