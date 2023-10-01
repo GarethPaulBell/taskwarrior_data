@@ -19,3 +19,38 @@
 {"description":"estimate: 20min","entry":"20231001T002123Z","modified":"20231001T005617Z","project":"home","status":"pending","uuid":"f0b70bb3-8865-416c-adb8-fc592ee8a413"}
 {"description":"estimate: 20min","entry":"20231001T002134Z","modified":"20231001T005627Z","project":"home","status":"pending","uuid":"e39f023c-c5e0-40be-a185-85b1507223ea"}
 {"description":"estimate: 40min","entry":"20231001T005249Z","modified":"20231001T005657Z","project":"home.food","status":"pending","uuid":"3d476552-ade0-4482-b247-d43e7751ec57"}
+{"description":"Clean house","entry":"20231001T011005Z","estimate":0.2,"modified":"20231001T011005Z","project":"home","status":"pending","uuid":"0a1d6b2c-db1a-4852-8f4a-cd9369f2d146"}
+{"description":"estimate: 30min","end":"20231001T011811Z","entry":"20231001T002107Z","modified":"20231001T011811Z","project":"home","status":"completed","uuid":"07bcf96c-c565-47af-81ca-127c4bf90183"}
+{"description":"estimate: 20min","end":"20231001T011825Z","entry":"20231001T002117Z","modified":"20231001T011830Z","project":"home","status":"completed","uuid":"dd831262-fefd-4bce-9ca4-28385b0ca54c"}
+{"description":"estimate: 20min","end":"20231001T011830Z","entry":"20231001T002123Z","modified":"20231001T011833Z","project":"home","status":"completed","uuid":"f0b70bb3-8865-416c-adb8-fc592ee8a413"}
+{"description":"estimate: 20min","end":"20231001T011833Z","entry":"20231001T002134Z","modified":"20231001T011833Z","project":"home","status":"completed","uuid":"e39f023c-c5e0-40be-a185-85b1507223ea"}
+{"description":"lounge","entry":"20231001T012012Z","estimate":0.2,"modified":"20231001T012012Z","project":"home.clean","status":"pending","uuid":"7f02f1eb-5523-42b6-a454-20fb318d8748"}
+{"description":"kitchen","entry":"20231001T012024Z","estimate":0.2,"modified":"20231001T012024Z","project":"home.clean","status":"pending","uuid":"88705fb6-9aa3-4626-b259-7a915cb76225"}
+{"description":"kitchen","entry":"20231001T012221Z","estimate":0.2,"modified":"20231001T012221Z","priority":"H","project":"home.clean","status":"pending","uuid":"f02cab2b-d549-4055-ab75-7c04274d5eff"}
+{"description":"bathroom","entry":"20231001T012245Z","estimate":0.2,"modified":"20231001T012245Z","priority":"H","project":"home.clean","status":"pending","uuid":"053c64c1-e408-4e2d-b2f9-5ce407d349a8"}
+{"description":"clean car","entry":"20231001T004127Z","modified":"20231001T012334Z","priority":"H","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"estimate 0.2","entry":"20231001T004127Z","modified":"20231001T012350Z","priority":"H","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"estimate 0.2","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T012402Z","priority":"H","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"clean car","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T012419Z","priority":"H","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"get breakfast\/lunch","entry":"20231001T005249Z","modified":"20231001T012452Z","project":"home.food","status":"pending","uuid":"3d476552-ade0-4482-b247-d43e7751ec57"}
+{"description":"get breakfast\/lunch","entry":"20231001T005249Z","estimate":0.65,"modified":"20231001T012516Z","project":"home.food","status":"pending","uuid":"3d476552-ade0-4482-b247-d43e7751ec57"}
+{"description":"lounge","entry":"20231001T012012Z","estimate":0.2,"modified":"20231001T012626Z","priority":"H","project":"home.clean","status":"pending","uuid":"7f02f1eb-5523-42b6-a454-20fb318d8748"}
+{"description":"Clean house","end":"20231001T012646Z","entry":"20231001T011005Z","estimate":0.2,"modified":"20231001T012648Z","project":"home","status":"deleted","uuid":"0a1d6b2c-db1a-4852-8f4a-cd9369f2d146"}
+{"description":"prioritory:M","entry":"20231001T004333Z","modified":"20231001T012731Z","project":"sytronics.board","status":"pending","uuid":"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"}
+{"description":"schematic","entry":"20231001T004333Z","modified":"20231001T012805Z","project":"sytronics.board","status":"pending","uuid":"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"}
+{"description":"kitchen","entry":"20231001T012024Z","estimate":0.2,"modified":"20231001T012852Z","priority":"H","project":"home.clean","status":"pending","uuid":"88705fb6-9aa3-4626-b259-7a915cb76225"}
+{"description":"bathroom","entry":"20231001T012245Z","estimate":0.2,"modified":"20231001T012917Z","priority":"M","project":"home.clean","status":"pending","uuid":"053c64c1-e408-4e2d-b2f9-5ce407d349a8"}
+{"description":"weekly review","entry":"20231001T005217Z","modified":"20231001T012928Z","priority":"H","project":"home.personal","status":"pending","uuid":"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"}
+{"description":"get breakfast\/lunch","entry":"20231001T005249Z","estimate":0.65,"modified":"20231001T012949Z","priority":"H","project":"home.food","status":"pending","uuid":"3d476552-ade0-4482-b247-d43e7751ec57"}
+{"description":"lounge","entry":"20231001T012012Z","estimate":0.2,"modified":"20231001T013205Z","priority":"M","project":"home.clean","status":"pending","uuid":"7f02f1eb-5523-42b6-a454-20fb318d8748"}
+{"description":"kitchen","entry":"20231001T012024Z","estimate":0.2,"modified":"20231001T013205Z","priority":"M","project":"home.clean","status":"pending","uuid":"88705fb6-9aa3-4626-b259-7a915cb76225"}
+{"description":"kitchen","entry":"20231001T012221Z","estimate":0.2,"modified":"20231001T013205Z","priority":"M","project":"home.clean","status":"pending","uuid":"f02cab2b-d549-4055-ab75-7c04274d5eff"}
+{"description":"schematic","entry":"20231001T004333Z","modified":"20231001T013243Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"}
+{"description":"pcb-layout","entry":"20231001T004344Z","modified":"20231001T013243Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"}
+{"description":"get footprints","entry":"20231001T004355Z","modified":"20231001T013243Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"a2f2dc76-3a40-4019-98d5-baaddfce324c"}
+{"description":"schematic","entry":"20231001T004333Z","estimate":1.5,"modified":"20231001T013325Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"5e261dbc-60ac-40b9-a62b-a4a3615c2bc3"}
+{"description":"pcb-layout","entry":"20231001T004344Z","estimate":1.5,"modified":"20231001T013325Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"a61a8ab8-2127-4eea-ab7d-861a34ceadfc"}
+{"description":"get footprints","entry":"20231001T004355Z","estimate":1.5,"modified":"20231001T013325Z","priority":"L","project":"sytronics.board","status":"pending","uuid":"a2f2dc76-3a40-4019-98d5-baaddfce324c"}
+{"description":"weekly review","entry":"20231001T005217Z","estimate":0.75,"modified":"20231001T013351Z","priority":"H","project":"home.personal","status":"pending","uuid":"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"}
+{"description":"priority M","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T013554Z","priority":"H","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"clean car","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T013606Z","priority":"M","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
