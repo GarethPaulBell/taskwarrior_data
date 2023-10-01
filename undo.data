@@ -261,3 +261,6 @@ new [description:"clean car" end:"1696150675" entry:"1696120887" estimate:"0.2" 
 time 1696150846
 new [description:"shine shoes" entry:"1696150846" modified:"1696150846" status:"pending" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
 ---
+time 1696150975
+new [description:"shine new shoes" entry:"1696150975" modified:"1696150975" status:"pending" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
+---
