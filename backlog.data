@@ -57,3 +57,6 @@
 {"description":"lounge","end":"20231001T030738Z","entry":"20231001T012012Z","estimate":0.2,"modified":"20231001T030742Z","priority":"M","project":"home.clean","status":"completed","uuid":"7f02f1eb-5523-42b6-a454-20fb318d8748"}
 {"description":"kitchen","end":"20231001T030742Z","entry":"20231001T012024Z","estimate":0.2,"modified":"20231001T030744Z","priority":"M","project":"home.clean","status":"completed","uuid":"88705fb6-9aa3-4626-b259-7a915cb76225"}
 {"description":"kitchen","end":"20231001T030744Z","entry":"20231001T012221Z","estimate":0.2,"modified":"20231001T030744Z","priority":"M","project":"home.clean","status":"completed","uuid":"f02cab2b-d549-4055-ab75-7c04274d5eff"}
+{"description":"bathroom","end":"20231001T044815Z","entry":"20231001T012245Z","estimate":0.2,"modified":"20231001T044815Z","priority":"M","project":"home.clean","status":"completed","uuid":"053c64c1-e408-4e2d-b2f9-5ce407d349a8"}
+{"description":"weekly review","end":"20231001T044836Z","entry":"20231001T005217Z","estimate":0.75,"modified":"20231001T044836Z","priority":"H","project":"home.personal","status":"completed","uuid":"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"}
+{"description":"weekly review","end":"20231001T044853Z","entry":"20231001T004218Z","modified":"20231001T044853Z","status":"completed","uuid":"097f4156-9c7b-4ab5-be33-a01b95ae8e6e"}
