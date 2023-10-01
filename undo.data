@@ -203,3 +203,15 @@ time 1696124166
 old [description:"priority M" entry:"1696120887" estimate:"0.2" modified:"1696124154" priority:"H" project:"home.transport" status:"pending" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
 new [description:"clean car" entry:"1696120887" estimate:"0.2" modified:"1696124166" priority:"M" project:"home.transport" status:"pending" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
 ---
+time 1696129662
+old [description:"lounge" entry:"1696123212" estimate:"0.2" modified:"1696123925" priority:"M" project:"home.clean" status:"pending" uuid:"7f02f1eb-5523-42b6-a454-20fb318d8748"]
+new [description:"lounge" end:"1696129658" entry:"1696123212" estimate:"0.2" modified:"1696129662" priority:"M" project:"home.clean" status:"completed" uuid:"7f02f1eb-5523-42b6-a454-20fb318d8748"]
+---
+time 1696129664
+old [description:"kitchen" entry:"1696123224" estimate:"0.2" modified:"1696123925" priority:"M" project:"home.clean" status:"pending" uuid:"88705fb6-9aa3-4626-b259-7a915cb76225"]
+new [description:"kitchen" end:"1696129662" entry:"1696123224" estimate:"0.2" modified:"1696129664" priority:"M" project:"home.clean" status:"completed" uuid:"88705fb6-9aa3-4626-b259-7a915cb76225"]
+---
+time 1696129664
+old [description:"kitchen" entry:"1696123341" estimate:"0.2" modified:"1696123925" priority:"M" project:"home.clean" status:"pending" uuid:"f02cab2b-d549-4055-ab75-7c04274d5eff"]
+new [description:"kitchen" end:"1696129664" entry:"1696123341" estimate:"0.2" modified:"1696129664" priority:"M" project:"home.clean" status:"completed" uuid:"f02cab2b-d549-4055-ab75-7c04274d5eff"]
+---

@@ -6,7 +6,4 @@
 [description:"get footprints" entry:"1696121035" estimate:"1.5" modified:"1696124005" priority:"L" project:"sytronics.board" status:"pending" uuid:"a2f2dc76-3a40-4019-98d5-baaddfce324c"]
 [description:"weekly review" entry:"1696121537" estimate:"0.75" modified:"1696124031" priority:"H" project:"home.personal" status:"pending" uuid:"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"]
 [description:"get breakfast\/lunch" entry:"1696121569" estimate:"0.65" modified:"1696123789" priority:"H" project:"home.food" status:"pending" uuid:"3d476552-ade0-4482-b247-d43e7751ec57"]
-[description:"lounge" entry:"1696123212" estimate:"0.2" modified:"1696123925" priority:"M" project:"home.clean" status:"pending" uuid:"7f02f1eb-5523-42b6-a454-20fb318d8748"]
-[description:"kitchen" entry:"1696123224" estimate:"0.2" modified:"1696123925" priority:"M" project:"home.clean" status:"pending" uuid:"88705fb6-9aa3-4626-b259-7a915cb76225"]
-[description:"kitchen" entry:"1696123341" estimate:"0.2" modified:"1696123925" priority:"M" project:"home.clean" status:"pending" uuid:"f02cab2b-d549-4055-ab75-7c04274d5eff"]
 [description:"bathroom" entry:"1696123365" estimate:"0.2" modified:"1696123757" priority:"M" project:"home.clean" status:"pending" uuid:"053c64c1-e408-4e2d-b2f9-5ce407d349a8"]

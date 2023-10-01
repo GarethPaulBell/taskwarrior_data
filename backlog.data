@@ -54,3 +54,6 @@
 {"description":"weekly review","entry":"20231001T005217Z","estimate":0.75,"modified":"20231001T013351Z","priority":"H","project":"home.personal","status":"pending","uuid":"b3d9ffab-fe04-4e13-8085-2cd83a1dbe19"}
 {"description":"priority M","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T013554Z","priority":"H","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
 {"description":"clean car","entry":"20231001T004127Z","estimate":0.2,"modified":"20231001T013606Z","priority":"M","project":"home.transport","status":"pending","uuid":"0076ba9a-c343-4921-bb56-0b971503a71a"}
+{"description":"lounge","end":"20231001T030738Z","entry":"20231001T012012Z","estimate":0.2,"modified":"20231001T030742Z","priority":"M","project":"home.clean","status":"completed","uuid":"7f02f1eb-5523-42b6-a454-20fb318d8748"}
+{"description":"kitchen","end":"20231001T030742Z","entry":"20231001T012024Z","estimate":0.2,"modified":"20231001T030744Z","priority":"M","project":"home.clean","status":"completed","uuid":"88705fb6-9aa3-4626-b259-7a915cb76225"}
+{"description":"kitchen","end":"20231001T030744Z","entry":"20231001T012221Z","estimate":0.2,"modified":"20231001T030744Z","priority":"M","project":"home.clean","status":"completed","uuid":"f02cab2b-d549-4055-ab75-7c04274d5eff"}
