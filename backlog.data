@@ -74,3 +74,7 @@
 {"description":"shine shoes","end":"20231001T093025Z","entry":"20231001T090046Z","modified":"20231001T093028Z","status":"deleted","uuid":"2e002002-6fd2-475a-9d06-3546563854dd"}
 {"description":"shine new shoes","end":"20231001T093028Z","entry":"20231001T090255Z","modified":"20231001T093029Z","status":"deleted","uuid":"8d229624-1a2c-4420-b93c-e1cf138277e0"}
 {"description":"water plants","entry":"20231001T093121Z","modified":"20231001T093121Z","project":"home","status":"pending","uuid":"94a125b2-944d-43c6-85b7-85539dfbe10a"}
+{"description":"send invite to JS\/CS for dinner","end":"20231007T012054Z","entry":"20231001T092920Z","modified":"20231007T012054Z","status":"completed","uuid":"f7da87bd-cc6b-4f61-8203-940d2faa5025","tags":["social"]}
+{"description":"get breakfast\/lunch","end":"20231007T012105Z","entry":"20231001T005249Z","estimate":0.65,"modified":"20231007T012105Z","priority":"H","project":"home.food","status":"completed","uuid":"3d476552-ade0-4482-b247-d43e7751ec57"}
+{"description":"weed garden","entry":"20231007T012648Z","modified":"20231007T012648Z","status":"pending","uuid":"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"}
+{"description":"purchase spray from bunnings","entry":"20231007T012656Z","modified":"20231007T012656Z","status":"pending","uuid":"d32ae639-2ae2-4d25-976a-d64aa55b0cba"}

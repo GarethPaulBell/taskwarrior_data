@@ -278,3 +278,17 @@ new [description:"shine new shoes" end:"1696152628" entry:"1696150975" modified:
 time 1696152681
 new [description:"water plants" entry:"1696152681" modified:"1696152681" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
 ---
+time 1696641654
+old [description:"send invite to JS\/CS for dinner" entry:"1696152560" modified:"1696152560" status:"pending" tags:"social" tags_social:"x" uuid:"f7da87bd-cc6b-4f61-8203-940d2faa5025"]
+new [description:"send invite to JS\/CS for dinner" end:"1696641654" entry:"1696152560" modified:"1696641654" status:"completed" tags:"social" tags_social:"x" uuid:"f7da87bd-cc6b-4f61-8203-940d2faa5025"]
+---
+time 1696641665
+old [description:"get breakfast\/lunch" entry:"1696121569" estimate:"0.65" modified:"1696123789" priority:"H" project:"home.food" status:"pending" uuid:"3d476552-ade0-4482-b247-d43e7751ec57"]
+new [description:"get breakfast\/lunch" end:"1696641665" entry:"1696121569" estimate:"0.65" modified:"1696641665" priority:"H" project:"home.food" status:"completed" uuid:"3d476552-ade0-4482-b247-d43e7751ec57"]
+---
+time 1696642008
+new [description:"weed garden" entry:"1696642008" modified:"1696642008" status:"pending" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
+---
+time 1696642016
+new [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696642016" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
+---

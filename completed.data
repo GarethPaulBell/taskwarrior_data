@@ -1,3 +1,5 @@
+[description:"get breakfast\/lunch" end:"1696641665" entry:"1696121569" estimate:"0.65" modified:"1696641665" priority:"H" project:"home.food" status:"completed" uuid:"3d476552-ade0-4482-b247-d43e7751ec57"]
+[description:"send invite to JS\/CS for dinner" end:"1696641654" entry:"1696152560" modified:"1696641654" status:"completed" tags:"social" tags_social:"x" uuid:"f7da87bd-cc6b-4f61-8203-940d2faa5025"]
 [description:"shine shoes" end:"1696152625" entry:"1696150846" modified:"1696152628" status:"deleted" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]
 [description:"shine new shoes" end:"1696152628" entry:"1696150975" modified:"1696152629" status:"deleted" uuid:"8d229624-1a2c-4420-b93c-e1cf138277e0"]
 [description:"clean car" end:"1696150675" entry:"1696120887" estimate:"0.2" modified:"1696150675" priority:"M" project:"home.transport" status:"completed" uuid:"0076ba9a-c343-4921-bb56-0b971503a71a"]
