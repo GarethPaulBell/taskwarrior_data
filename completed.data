@@ -1,3 +1,8 @@
+[description:"food for next week" end:"1696722298" entry:"1696720977" modified:"1696722298" project:"planning" status:"completed" uuid:"2f471c85-9f5e-4b76-9861-dff518183b93"]
+[description:"upgrade SW" end:"1696721641" entry:"1696721368" modified:"1696721641" project:"vizzybell" status:"completed" uuid:"64d6aed1-edfa-455a-a8e2-cb0ea258e675"]
+[description:"education" end:"1696721239" entry:"1696720687" modified:"1696721241" status:"deleted" uuid:"1a705b81-83fa-4342-beec-da47eb3d914e"]
+[description:"education" end:"1696721241" entry:"1696720965" modified:"1696721242" status:"deleted" uuid:"d388e914-1d09-4866-b6f9-6b74e08cc787"]
+[description:"weedkiller" end:"1696721045" entry:"1696721034" modified:"1696721046" status:"deleted" uuid:"b8bfd670-634d-4f8e-8e3d-ffc6ad839608"]
 [description:"get breakfast\/lunch" end:"1696641665" entry:"1696121569" estimate:"0.65" modified:"1696641665" priority:"H" project:"home.food" status:"completed" uuid:"3d476552-ade0-4482-b247-d43e7751ec57"]
 [description:"send invite to JS\/CS for dinner" end:"1696641654" entry:"1696152560" modified:"1696641654" status:"completed" tags:"social" tags_social:"x" uuid:"f7da87bd-cc6b-4f61-8203-940d2faa5025"]
 [description:"shine shoes" end:"1696152625" entry:"1696150846" modified:"1696152628" status:"deleted" uuid:"2e002002-6fd2-475a-9d06-3546563854dd"]

@@ -78,3 +78,30 @@
 {"description":"get breakfast\/lunch","end":"20231007T012105Z","entry":"20231001T005249Z","estimate":0.65,"modified":"20231007T012105Z","priority":"H","project":"home.food","status":"completed","uuid":"3d476552-ade0-4482-b247-d43e7751ec57"}
 {"description":"weed garden","entry":"20231007T012648Z","modified":"20231007T012648Z","status":"pending","uuid":"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"}
 {"description":"purchase spray from bunnings","entry":"20231007T012656Z","modified":"20231007T012656Z","status":"pending","uuid":"d32ae639-2ae2-4d25-976a-d64aa55b0cba"}
+{"description":"fine tuning tutorial","entry":"20231007T231807Z","modified":"20231007T231807Z","status":"pending","uuid":"1a705b81-83fa-4342-beec-da47eb3d914e"}
+{"description":"microsoft agents tutorial","entry":"20231007T232245Z","modified":"20231007T232245Z","status":"pending","uuid":"d388e914-1d09-4866-b6f9-6b74e08cc787"}
+{"description":"bathroom","entry":"20231007T232252Z","modified":"20231007T232252Z","status":"pending","uuid":"933df212-9fd9-441e-8375-d2bf1e52a1d6"}
+{"description":"food for next week","entry":"20231007T232257Z","modified":"20231007T232257Z","status":"pending","uuid":"2f471c85-9f5e-4b76-9861-dff518183b93"}
+{"description":"clothes for next week","entry":"20231007T232311Z","modified":"20231007T232311Z","status":"pending","uuid":"2d96699f-2112-4982-9848-317f4ec9bd53"}
+{"description":"reflection and planning for next week","entry":"20231007T232318Z","modified":"20231007T232318Z","status":"pending","uuid":"390943e4-4753-4c12-8d04-5111419598de"}
+{"description":"weedkiller","entry":"20231007T232354Z","modified":"20231007T232354Z","status":"pending","uuid":"b8bfd670-634d-4f8e-8e3d-ffc6ad839608"}
+{"description":"weedkiller","end":"20231007T232405Z","entry":"20231007T232354Z","modified":"20231007T232406Z","status":"deleted","uuid":"b8bfd670-634d-4f8e-8e3d-ffc6ad839608"}
+{"description":"food for next week","entry":"20231007T232257Z","modified":"20231007T232508Z","project":"planning","status":"pending","uuid":"2f471c85-9f5e-4b76-9861-dff518183b93"}
+{"description":"clothes for next week","entry":"20231007T232311Z","modified":"20231007T232508Z","project":"planning","status":"pending","uuid":"2d96699f-2112-4982-9848-317f4ec9bd53"}
+{"description":"reflection and planning for next week","entry":"20231007T232318Z","modified":"20231007T232508Z","project":"planning","status":"pending","uuid":"390943e4-4753-4c12-8d04-5111419598de"}
+{"description":"education","entry":"20231007T231807Z","modified":"20231007T232535Z","status":"pending","uuid":"1a705b81-83fa-4342-beec-da47eb3d914e"}
+{"description":"education","entry":"20231007T232245Z","modified":"20231007T232535Z","status":"pending","uuid":"d388e914-1d09-4866-b6f9-6b74e08cc787"}
+{"description":"education","end":"20231007T232719Z","entry":"20231007T231807Z","modified":"20231007T232721Z","status":"deleted","uuid":"1a705b81-83fa-4342-beec-da47eb3d914e"}
+{"description":"education","end":"20231007T232721Z","entry":"20231007T232245Z","modified":"20231007T232722Z","status":"deleted","uuid":"d388e914-1d09-4866-b6f9-6b74e08cc787"}
+{"description":"purchase spray from bunnings","entry":"20231007T012656Z","modified":"20231007T232745Z","project":"bathroom","status":"pending","uuid":"d32ae639-2ae2-4d25-976a-d64aa55b0cba"}
+{"description":"bathroom","entry":"20231007T232252Z","modified":"20231007T232745Z","project":"bathroom","status":"pending","uuid":"933df212-9fd9-441e-8375-d2bf1e52a1d6"}
+{"description":"weed garden","entry":"20231007T012648Z","modified":"20231007T232816Z","project":"garden","status":"pending","uuid":"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"}
+{"description":"purchase spray from bunnings","entry":"20231007T012656Z","modified":"20231007T232816Z","project":"garden","status":"pending","uuid":"d32ae639-2ae2-4d25-976a-d64aa55b0cba"}
+{"description":"upgrade SW","entry":"20231007T232928Z","modified":"20231007T232928Z","project":"vizzybell","status":"pending","uuid":"64d6aed1-edfa-455a-a8e2-cb0ea258e675"}
+{"description":"restore hardware design","entry":"20231007T232943Z","modified":"20231007T232943Z","project":"vizzybell","status":"pending","uuid":"97836f35-949f-48a4-834e-d113080ee37d"}
+{"description":"LED board layout","entry":"20231007T233003Z","modified":"20231007T233003Z","project":"vizzzybell","status":"pending","uuid":"23e90bda-7d14-4b69-a6d6-648fa53e1036"}
+{"description":"LED board layout","entry":"20231007T233003Z","modified":"20231007T233024Z","project":"vizzybell","status":"pending","uuid":"23e90bda-7d14-4b69-a6d6-648fa53e1036"}
+{"description":"fine tuning tutorial","entry":"20231007T233137Z","modified":"20231007T233137Z","project":"education","status":"pending","uuid":"e7aed0f8-d302-4a85-94d7-98f0ace7810d"}
+{"description":"agents tutorial","entry":"20231007T233147Z","modified":"20231007T233147Z","project":"education","status":"pending","uuid":"ddb008d3-9e34-4c67-9748-6c569dd8b457"}
+{"description":"upgrade SW","end":"20231007T233401Z","entry":"20231007T232928Z","modified":"20231007T233401Z","project":"vizzybell","status":"completed","uuid":"64d6aed1-edfa-455a-a8e2-cb0ea258e675"}
+{"description":"food for next week","end":"20231007T234458Z","entry":"20231007T232257Z","modified":"20231007T234458Z","project":"planning","status":"completed","uuid":"2f471c85-9f5e-4b76-9861-dff518183b93"}

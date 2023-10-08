@@ -292,3 +292,99 @@ new [description:"weed garden" entry:"1696642008" modified:"1696642008" status:"
 time 1696642016
 new [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696642016" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
 ---
+time 1696720687
+new [description:"fine tuning tutorial" entry:"1696720687" modified:"1696720687" status:"pending" uuid:"1a705b81-83fa-4342-beec-da47eb3d914e"]
+---
+time 1696720965
+new [description:"microsoft agents tutorial" entry:"1696720965" modified:"1696720965" status:"pending" uuid:"d388e914-1d09-4866-b6f9-6b74e08cc787"]
+---
+time 1696720972
+new [description:"bathroom" entry:"1696720972" modified:"1696720972" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
+---
+time 1696720977
+new [description:"food for next week" entry:"1696720977" modified:"1696720977" status:"pending" uuid:"2f471c85-9f5e-4b76-9861-dff518183b93"]
+---
+time 1696720991
+new [description:"clothes for next week" entry:"1696720991" modified:"1696720991" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
+---
+time 1696720998
+new [description:"reflection and planning for next week" entry:"1696720998" modified:"1696720998" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]
+---
+time 1696721034
+new [description:"weedkiller" entry:"1696721034" modified:"1696721034" status:"pending" uuid:"b8bfd670-634d-4f8e-8e3d-ffc6ad839608"]
+---
+time 1696721046
+old [description:"weedkiller" entry:"1696721034" modified:"1696721034" status:"pending" uuid:"b8bfd670-634d-4f8e-8e3d-ffc6ad839608"]
+new [description:"weedkiller" end:"1696721045" entry:"1696721034" modified:"1696721046" status:"deleted" uuid:"b8bfd670-634d-4f8e-8e3d-ffc6ad839608"]
+---
+time 1696721108
+old [description:"food for next week" entry:"1696720977" modified:"1696720977" status:"pending" uuid:"2f471c85-9f5e-4b76-9861-dff518183b93"]
+new [description:"food for next week" entry:"1696720977" modified:"1696721108" project:"planning" status:"pending" uuid:"2f471c85-9f5e-4b76-9861-dff518183b93"]
+---
+time 1696721108
+old [description:"clothes for next week" entry:"1696720991" modified:"1696720991" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
+new [description:"clothes for next week" entry:"1696720991" modified:"1696721108" project:"planning" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
+---
+time 1696721108
+old [description:"reflection and planning for next week" entry:"1696720998" modified:"1696720998" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]
+new [description:"reflection and planning for next week" entry:"1696720998" modified:"1696721108" project:"planning" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]
+---
+time 1696721135
+old [description:"fine tuning tutorial" entry:"1696720687" modified:"1696720687" status:"pending" uuid:"1a705b81-83fa-4342-beec-da47eb3d914e"]
+new [description:"education" entry:"1696720687" modified:"1696721135" status:"pending" uuid:"1a705b81-83fa-4342-beec-da47eb3d914e"]
+---
+time 1696721135
+old [description:"microsoft agents tutorial" entry:"1696720965" modified:"1696720965" status:"pending" uuid:"d388e914-1d09-4866-b6f9-6b74e08cc787"]
+new [description:"education" entry:"1696720965" modified:"1696721135" status:"pending" uuid:"d388e914-1d09-4866-b6f9-6b74e08cc787"]
+---
+time 1696721241
+old [description:"education" entry:"1696720687" modified:"1696721135" status:"pending" uuid:"1a705b81-83fa-4342-beec-da47eb3d914e"]
+new [description:"education" end:"1696721239" entry:"1696720687" modified:"1696721241" status:"deleted" uuid:"1a705b81-83fa-4342-beec-da47eb3d914e"]
+---
+time 1696721242
+old [description:"education" entry:"1696720965" modified:"1696721135" status:"pending" uuid:"d388e914-1d09-4866-b6f9-6b74e08cc787"]
+new [description:"education" end:"1696721241" entry:"1696720965" modified:"1696721242" status:"deleted" uuid:"d388e914-1d09-4866-b6f9-6b74e08cc787"]
+---
+time 1696721265
+old [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696642016" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
+new [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696721265" project:"bathroom" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
+---
+time 1696721265
+old [description:"bathroom" entry:"1696720972" modified:"1696720972" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
+new [description:"bathroom" entry:"1696720972" modified:"1696721265" project:"bathroom" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
+---
+time 1696721296
+old [description:"weed garden" entry:"1696642008" modified:"1696642008" status:"pending" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
+new [description:"weed garden" entry:"1696642008" modified:"1696721296" project:"garden" status:"pending" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
+---
+time 1696721296
+old [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696721265" project:"bathroom" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
+new [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696721296" project:"garden" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
+---
+time 1696721368
+new [description:"upgrade SW" entry:"1696721368" modified:"1696721368" project:"vizzybell" status:"pending" uuid:"64d6aed1-edfa-455a-a8e2-cb0ea258e675"]
+---
+time 1696721383
+new [description:"restore hardware design" entry:"1696721383" modified:"1696721383" project:"vizzybell" status:"pending" uuid:"97836f35-949f-48a4-834e-d113080ee37d"]
+---
+time 1696721403
+new [description:"LED board layout" entry:"1696721403" modified:"1696721403" project:"vizzzybell" status:"pending" uuid:"23e90bda-7d14-4b69-a6d6-648fa53e1036"]
+---
+time 1696721424
+old [description:"LED board layout" entry:"1696721403" modified:"1696721403" project:"vizzzybell" status:"pending" uuid:"23e90bda-7d14-4b69-a6d6-648fa53e1036"]
+new [description:"LED board layout" entry:"1696721403" modified:"1696721424" project:"vizzybell" status:"pending" uuid:"23e90bda-7d14-4b69-a6d6-648fa53e1036"]
+---
+time 1696721497
+new [description:"fine tuning tutorial" entry:"1696721497" modified:"1696721497" project:"education" status:"pending" uuid:"e7aed0f8-d302-4a85-94d7-98f0ace7810d"]
+---
+time 1696721507
+new [description:"agents tutorial" entry:"1696721507" modified:"1696721507" project:"education" status:"pending" uuid:"ddb008d3-9e34-4c67-9748-6c569dd8b457"]
+---
+time 1696721641
+old [description:"upgrade SW" entry:"1696721368" modified:"1696721368" project:"vizzybell" status:"pending" uuid:"64d6aed1-edfa-455a-a8e2-cb0ea258e675"]
+new [description:"upgrade SW" end:"1696721641" entry:"1696721368" modified:"1696721641" project:"vizzybell" status:"completed" uuid:"64d6aed1-edfa-455a-a8e2-cb0ea258e675"]
+---
+time 1696722298
+old [description:"food for next week" entry:"1696720977" modified:"1696721108" project:"planning" status:"pending" uuid:"2f471c85-9f5e-4b76-9861-dff518183b93"]
+new [description:"food for next week" end:"1696722298" entry:"1696720977" modified:"1696722298" project:"planning" status:"completed" uuid:"2f471c85-9f5e-4b76-9861-dff518183b93"]
+---
