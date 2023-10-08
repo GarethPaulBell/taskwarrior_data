@@ -1,7 +1,6 @@
 [description:"fix bike" entry:"1696120878" modified:"1696120878" project:"home.transport" status:"pending" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
 [description:"pcb layout" entry:"1696140756" estimate:"2" modified:"1696141131" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
 [description:"water plants" entry:"1696152681" modified:"1696152681" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
-[description:"weed garden" entry:"1696642008" modified:"1696721296" project:"garden" status:"pending" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
 [description:"bathroom" entry:"1696720972" modified:"1696721265" project:"bathroom" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
 [description:"clothes for next week" entry:"1696720991" modified:"1696721108" project:"planning" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
 [description:"reflection and planning for next week" entry:"1696720998" modified:"1696721108" project:"planning" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]

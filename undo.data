@@ -404,3 +404,7 @@ time 1696738193
 old [description:"purchase spray from bunnings" entry:"1696642016" modified:"1696721296" project:"garden" status:"pending" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
 new [description:"purchase spray from bunnings" end:"1696738193" entry:"1696642016" modified:"1696738193" project:"garden" status:"completed" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]
 ---
+time 1696743717
+old [description:"weed garden" entry:"1696642008" modified:"1696721296" project:"garden" status:"pending" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
+new [description:"weed garden" end:"1696743717" entry:"1696642008" modified:"1696743717" project:"garden" status:"completed" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
+---
