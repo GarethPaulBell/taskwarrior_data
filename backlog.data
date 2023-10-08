@@ -105,3 +105,5 @@
 {"description":"agents tutorial","entry":"20231007T233147Z","modified":"20231007T233147Z","project":"education","status":"pending","uuid":"ddb008d3-9e34-4c67-9748-6c569dd8b457"}
 {"description":"upgrade SW","end":"20231007T233401Z","entry":"20231007T232928Z","modified":"20231007T233401Z","project":"vizzybell","status":"completed","uuid":"64d6aed1-edfa-455a-a8e2-cb0ea258e675"}
 {"description":"food for next week","end":"20231007T234458Z","entry":"20231007T232257Z","modified":"20231007T234458Z","project":"planning","status":"completed","uuid":"2f471c85-9f5e-4b76-9861-dff518183b93"}
+{"description":"LED board layout","end":"20231008T021248Z","entry":"20231007T233003Z","modified":"20231008T021248Z","project":"vizzybell","status":"completed","uuid":"23e90bda-7d14-4b69-a6d6-648fa53e1036"}
+{"description":"restore hardware design","end":"20231008T021256Z","entry":"20231007T232943Z","modified":"20231008T021256Z","project":"vizzybell","status":"completed","uuid":"97836f35-949f-48a4-834e-d113080ee37d"}

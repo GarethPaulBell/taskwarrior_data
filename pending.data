@@ -6,7 +6,5 @@
 [description:"bathroom" entry:"1696720972" modified:"1696721265" project:"bathroom" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
 [description:"clothes for next week" entry:"1696720991" modified:"1696721108" project:"planning" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
 [description:"reflection and planning for next week" entry:"1696720998" modified:"1696721108" project:"planning" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]
-[description:"restore hardware design" entry:"1696721383" modified:"1696721383" project:"vizzybell" status:"pending" uuid:"97836f35-949f-48a4-834e-d113080ee37d"]
-[description:"LED board layout" entry:"1696721403" modified:"1696721424" project:"vizzybell" status:"pending" uuid:"23e90bda-7d14-4b69-a6d6-648fa53e1036"]
 [description:"fine tuning tutorial" entry:"1696721497" modified:"1696721497" project:"education" status:"pending" uuid:"e7aed0f8-d302-4a85-94d7-98f0ace7810d"]
 [description:"agents tutorial" entry:"1696721507" modified:"1696721507" project:"education" status:"pending" uuid:"ddb008d3-9e34-4c67-9748-6c569dd8b457"]
