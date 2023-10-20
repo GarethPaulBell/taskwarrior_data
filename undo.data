@@ -408,3 +408,105 @@ time 1696743717
 old [description:"weed garden" entry:"1696642008" modified:"1696721296" project:"garden" status:"pending" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
 new [description:"weed garden" end:"1696743717" entry:"1696642008" modified:"1696743717" project:"garden" status:"completed" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
 ---
+time 1697840110
+new [description:"kitchen" entry:"1697840110" modified:"1697840110" status:"pending" uuid:"5cc1ca08-0dab-4cab-b935-cb201623d8d3"]
+---
+time 1697841085
+new [description:"find plant water beeper" entry:"1697841085" modified:"1697841085" status:"pending" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
+---
+time 1697841105
+new [description:"clean office" entry:"1697841105" modified:"1697841105" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+---
+time 1697841145
+old [description:"clean office" entry:"1697841105" modified:"1697841105" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+new [description:"estimate 45min" entry:"1697841105" modified:"1697841145" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+---
+time 1697841161
+old [description:"pcb layout" entry:"1696140756" estimate:"2" modified:"1696141131" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"estimate" entry:"1696140756" estimate:"2" modified:"1697841161" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
+time 1697841161
+old [description:"estimate 45min" entry:"1697841105" modified:"1697841145" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+new [description:"estimate" entry:"1697841105" modified:"1697841161" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+---
+time 1697841276
+old [description:"estimate" entry:"1697841105" modified:"1697841161" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+new [description:"clean bathroom" entry:"1697841105" estimate:"0.5" modified:"1697841276" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+---
+time 1697841334
+old [description:"estimate" entry:"1696140756" estimate:"2" modified:"1697841161" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"experiment with power inputs in kicad" entry:"1696140756" estimate:"1" modified:"1697841334" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
+time 1697841374
+new [description:"sytronics.board input power supply" entry:"1697841374" modified:"1697841374" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+---
+time 1697841402
+new [description:"sytronics.board complete board layout" entry:"1697841402" modified:"1697841402" status:"pending" uuid:"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"]
+---
+time 1697841425
+new [description:"sytronics.board order components and board" entry:"1697841425" modified:"1697841425" status:"pending" uuid:"396ad82d-7c71-4a77-8b49-20afeeda8d1e"]
+---
+time 1697841451
+old [description:"sytronics.board input power supply" entry:"1697841374" modified:"1697841374" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+new [description:"sytronics.board input power supply" entry:"1697841374" estimate:"1" modified:"1697841451" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+---
+time 1697841460
+old [description:"sytronics.board input power supply" entry:"1697841374" estimate:"1" modified:"1697841451" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+new [description:"sytronics.board input power supply" entry:"1697841374" estimate:"0.75" modified:"1697841460" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+---
+time 1697841487
+old [description:"sytronics.board complete board layout" entry:"1697841402" modified:"1697841402" status:"pending" uuid:"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"]
+new [description:"sytronics.board complete board layout" entry:"1697841402" estimate:"1.5" modified:"1697841487" status:"pending" uuid:"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"]
+---
+time 1697841515
+old [description:"sytronics.board order components and board" entry:"1697841425" modified:"1697841425" status:"pending" uuid:"396ad82d-7c71-4a77-8b49-20afeeda8d1e"]
+new [description:"sytronics.board order components and board" entry:"1697841425" estimate:"0.75" modified:"1697841515" status:"pending" uuid:"396ad82d-7c71-4a77-8b49-20afeeda8d1e"]
+---
+time 1697841654
+new [description:"order new iphone" entry:"1697841654" modified:"1697841654" project:"it" status:"pending" uuid:"d9e63ed8-8c62-44c2-8b8a-363f2bf5dc56"]
+---
+time 1697841684
+new [description:"mix up spray" entry:"1697841684" modified:"1697841684" project:"garden" status:"pending" uuid:"ac904fee-19e5-4d33-a5d3-98af2e969943"]
+---
+time 1697841695
+new [description:"spray weeds" entry:"1697841695" modified:"1697841695" project:"garden" status:"pending" uuid:"352e3c36-7bd7-46b9-ac95-ee3c66645e2a"]
+---
+time 1697841712
+old [description:"mix up spray" entry:"1697841684" modified:"1697841684" project:"garden" status:"pending" uuid:"ac904fee-19e5-4d33-a5d3-98af2e969943"]
+new [description:"mix up spray" entry:"1697841684" estimate:"0.25" modified:"1697841712" project:"garden" status:"pending" uuid:"ac904fee-19e5-4d33-a5d3-98af2e969943"]
+---
+time 1697841723
+old [description:"spray weeds" entry:"1697841695" modified:"1697841695" project:"garden" status:"pending" uuid:"352e3c36-7bd7-46b9-ac95-ee3c66645e2a"]
+new [description:"spray weeds" entry:"1697841695" estimate:"0.75" modified:"1697841723" project:"garden" status:"pending" uuid:"352e3c36-7bd7-46b9-ac95-ee3c66645e2a"]
+---
+time 1697842070
+old [description:"fix bike" entry:"1696120878" modified:"1696120878" project:"home.transport" status:"pending" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
+new [description:"fix bike" entry:"1696120878" estimate:"30" modified:"1697842070" project:"home.transport" status:"pending" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
+---
+time 1697842104
+old [description:"bathroom" entry:"1696720972" modified:"1696721265" project:"bathroom" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
+new [description:"bathroom" entry:"1696720972" estimate:"0.4" modified:"1697842104" project:"bathroom" status:"pending" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
+---
+time 1697842115
+old [description:"fix bike" entry:"1696120878" estimate:"30" modified:"1697842070" project:"home.transport" status:"pending" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
+new [description:"fix bike" entry:"1696120878" estimate:"0.5" modified:"1697842115" project:"home.transport" status:"pending" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
+---
+time 1697842142
+old [description:"water plants" entry:"1696152681" modified:"1696152681" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
+new [description:"water plants" entry:"1696152681" estimate:"0.2" modified:"1697842142" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
+---
+time 1697842238
+old [description:"clothes for next week" entry:"1696720991" modified:"1696721108" project:"planning" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
+new [description:"clothes for next week" entry:"1696720991" estimate:"0.3" modified:"1697842238" project:"planning" status:"pending" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
+---
+time 1697842264
+old [description:"reflection and planning for next week" entry:"1696720998" modified:"1696721108" project:"planning" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]
+new [description:"reflection and planning for next week" entry:"1696720998" estimate:"1" modified:"1697842264" project:"planning" status:"pending" uuid:"390943e4-4753-4c12-8d04-5111419598de"]
+---
+time 1697842708
+old [description:"agents tutorial" entry:"1696721507" modified:"1696721507" project:"education" status:"pending" uuid:"ddb008d3-9e34-4c67-9748-6c569dd8b457"]
+new [description:"agents tutorial" entry:"1696721507" estimate:"1.5" modified:"1697842708" project:"education" status:"pending" uuid:"ddb008d3-9e34-4c67-9748-6c569dd8b457"]
+---
+time 1697842740
+new [description:"8" entry:"1697842740" estimate:"0.5" modified:"1697842740" status:"pending" uuid:"2601e542-6dcf-433c-b3d3-be3b65524e11"]
+---
