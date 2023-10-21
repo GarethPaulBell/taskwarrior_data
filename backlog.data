@@ -138,3 +138,19 @@
 {"description":"reflection and planning for next week","entry":"20231007T232318Z","estimate":1,"modified":"20231020T225104Z","project":"planning","status":"pending","uuid":"390943e4-4753-4c12-8d04-5111419598de"}
 {"description":"agents tutorial","entry":"20231007T233147Z","estimate":1.5,"modified":"20231020T225828Z","project":"education","status":"pending","uuid":"ddb008d3-9e34-4c67-9748-6c569dd8b457"}
 {"description":"8","entry":"20231020T225900Z","estimate":0.5,"modified":"20231020T225900Z","status":"pending","uuid":"2601e542-6dcf-433c-b3d3-be3b65524e11"}
+{"description":"find plant water beeper","entry":"20231020T223125Z","estimate":0.25,"modified":"20231020T230002Z","status":"pending","uuid":"68192ef8-7301-4f62-acbe-f99c339cf913"}
+{"description":"kitchen","entry":"20231020T221510Z","estimate":0.5,"modified":"20231020T230026Z","status":"pending","uuid":"5cc1ca08-0dab-4cab-b935-cb201623d8d3"}
+{"description":"order new iphone","entry":"20231020T224054Z","estimate":0.5,"modified":"20231020T230443Z","project":"it","status":"pending","uuid":"d9e63ed8-8c62-44c2-8b8a-363f2bf5dc56"}
+{"description":"8","end":"20231020T230454Z","entry":"20231020T225900Z","estimate":0.5,"modified":"20231020T230456Z","status":"deleted","uuid":"2601e542-6dcf-433c-b3d3-be3b65524e11"}
+{"description":"project sytronics.board","entry":"20231020T223614Z","estimate":0.75,"modified":"20231020T231040Z","status":"pending","uuid":"3146fbf0-d2ab-4bad-af64-c87fb06b1164"}
+{"description":"project sytronics.board","entry":"20231020T223642Z","estimate":1.5,"modified":"20231020T231040Z","status":"pending","uuid":"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"}
+{"description":"project sytronics.board","entry":"20231020T223705Z","estimate":0.75,"modified":"20231020T231040Z","status":"pending","uuid":"396ad82d-7c71-4a77-8b49-20afeeda8d1e"}
+{"description":"sytronics.board order components and board","entry":"20231020T223705Z","estimate":0.75,"modified":"20231020T223835Z","status":"pending","uuid":"396ad82d-7c71-4a77-8b49-20afeeda8d1e"}
+{"description":"sytronics.board complete board layout","entry":"20231020T223642Z","estimate":1.5,"modified":"20231020T223807Z","status":"pending","uuid":"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"}
+{"description":"sytronics.board input power supply","entry":"20231020T223614Z","estimate":0.75,"modified":"20231020T223740Z","status":"pending","uuid":"3146fbf0-d2ab-4bad-af64-c87fb06b1164"}
+{"description":"sytronics.board input power supply","entry":"20231020T223614Z","estimate":0.75,"modified":"20231020T231152Z","project":"sytronics.board","status":"pending","uuid":"3146fbf0-d2ab-4bad-af64-c87fb06b1164"}
+{"description":"sytronics.board complete board layout","entry":"20231020T223642Z","estimate":1.5,"modified":"20231020T231152Z","project":"sytronics.board","status":"pending","uuid":"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"}
+{"description":"sytronics.board order components and board","entry":"20231020T223705Z","estimate":0.75,"modified":"20231020T231152Z","project":"sytronics.board","status":"pending","uuid":"396ad82d-7c71-4a77-8b49-20afeeda8d1e"}
+{"description":"kitchen","entry":"20231020T221510Z","estimate":0.5,"modified":"20231020T231228Z","project":"home","status":"pending","uuid":"5cc1ca08-0dab-4cab-b935-cb201623d8d3"}
+{"description":"find plant water beeper","entry":"20231020T223125Z","estimate":0.25,"modified":"20231020T231228Z","project":"home","status":"pending","uuid":"68192ef8-7301-4f62-acbe-f99c339cf913"}
+{"description":"clean bathroom","entry":"20231020T223145Z","estimate":0.5,"modified":"20231020T231228Z","project":"home","status":"pending","uuid":"93de893c-3d11-4f6a-93fa-5a6467c0cb99"}

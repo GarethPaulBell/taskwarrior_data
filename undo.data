@@ -510,3 +510,43 @@ new [description:"agents tutorial" entry:"1696721507" estimate:"1.5" modified:"1
 time 1697842740
 new [description:"8" entry:"1697842740" estimate:"0.5" modified:"1697842740" status:"pending" uuid:"2601e542-6dcf-433c-b3d3-be3b65524e11"]
 ---
+time 1697842802
+old [description:"find plant water beeper" entry:"1697841085" modified:"1697841085" status:"pending" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
+new [description:"find plant water beeper" entry:"1697841085" estimate:"0.25" modified:"1697842802" status:"pending" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
+---
+time 1697842826
+old [description:"kitchen" entry:"1697840110" modified:"1697840110" status:"pending" uuid:"5cc1ca08-0dab-4cab-b935-cb201623d8d3"]
+new [description:"kitchen" entry:"1697840110" estimate:"0.5" modified:"1697842826" status:"pending" uuid:"5cc1ca08-0dab-4cab-b935-cb201623d8d3"]
+---
+time 1697843083
+old [description:"order new iphone" entry:"1697841654" modified:"1697841654" project:"it" status:"pending" uuid:"d9e63ed8-8c62-44c2-8b8a-363f2bf5dc56"]
+new [description:"order new iphone" entry:"1697841654" estimate:"0.5" modified:"1697843083" project:"it" status:"pending" uuid:"d9e63ed8-8c62-44c2-8b8a-363f2bf5dc56"]
+---
+time 1697843096
+old [description:"8" entry:"1697842740" estimate:"0.5" modified:"1697842740" status:"pending" uuid:"2601e542-6dcf-433c-b3d3-be3b65524e11"]
+new [description:"8" end:"1697843094" entry:"1697842740" estimate:"0.5" modified:"1697843096" status:"deleted" uuid:"2601e542-6dcf-433c-b3d3-be3b65524e11"]
+---
+time 1697843512
+old [description:"sytronics.board input power supply" entry:"1697841374" estimate:"0.75" modified:"1697841460" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+new [description:"sytronics.board input power supply" entry:"1697841374" estimate:"0.75" modified:"1697843512" project:"sytronics.board" status:"pending" uuid:"3146fbf0-d2ab-4bad-af64-c87fb06b1164"]
+---
+time 1697843512
+old [description:"sytronics.board complete board layout" entry:"1697841402" estimate:"1.5" modified:"1697841487" status:"pending" uuid:"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"]
+new [description:"sytronics.board complete board layout" entry:"1697841402" estimate:"1.5" modified:"1697843512" project:"sytronics.board" status:"pending" uuid:"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"]
+---
+time 1697843512
+old [description:"sytronics.board order components and board" entry:"1697841425" estimate:"0.75" modified:"1697841515" status:"pending" uuid:"396ad82d-7c71-4a77-8b49-20afeeda8d1e"]
+new [description:"sytronics.board order components and board" entry:"1697841425" estimate:"0.75" modified:"1697843512" project:"sytronics.board" status:"pending" uuid:"396ad82d-7c71-4a77-8b49-20afeeda8d1e"]
+---
+time 1697843548
+old [description:"kitchen" entry:"1697840110" estimate:"0.5" modified:"1697842826" status:"pending" uuid:"5cc1ca08-0dab-4cab-b935-cb201623d8d3"]
+new [description:"kitchen" entry:"1697840110" estimate:"0.5" modified:"1697843548" project:"home" status:"pending" uuid:"5cc1ca08-0dab-4cab-b935-cb201623d8d3"]
+---
+time 1697843548
+old [description:"find plant water beeper" entry:"1697841085" estimate:"0.25" modified:"1697842802" status:"pending" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
+new [description:"find plant water beeper" entry:"1697841085" estimate:"0.25" modified:"1697843548" project:"home" status:"pending" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
+---
+time 1697843548
+old [description:"clean bathroom" entry:"1697841105" estimate:"0.5" modified:"1697841276" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+new [description:"clean bathroom" entry:"1697841105" estimate:"0.5" modified:"1697843548" project:"home" status:"pending" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
+---
