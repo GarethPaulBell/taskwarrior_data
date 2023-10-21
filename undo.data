@@ -566,3 +566,11 @@ time 1697849734
 old [description:"find plant water beeper" entry:"1697841085" estimate:"0.25" modified:"1697843548" project:"home" status:"pending" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
 new [description:"find plant water beeper" end:"1697849734" entry:"1697841085" estimate:"0.25" modified:"1697849734" project:"home" status:"completed" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
 ---
+time 1697850111
+old [description:"water plants" entry:"1696152681" estimate:"0.2" modified:"1697842142" project:"home" status:"pending" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
+new [description:"water plants" end:"1697850111" entry:"1696152681" estimate:"0.2" modified:"1697850111" project:"home" status:"completed" uuid:"94a125b2-944d-43c6-85b7-85539dfbe10a"]
+---
+time 1697850676
+old [description:"order new iphone" entry:"1697841654" estimate:"0.5" modified:"1697843083" project:"it" status:"pending" uuid:"d9e63ed8-8c62-44c2-8b8a-363f2bf5dc56"]
+new [description:"order new iphone" end:"1697850676" entry:"1697841654" estimate:"0.5" modified:"1697850676" project:"it" status:"completed" uuid:"d9e63ed8-8c62-44c2-8b8a-363f2bf5dc56"]
+---
