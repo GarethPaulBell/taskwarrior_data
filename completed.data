@@ -1,3 +1,7 @@
+[description:"find plant water beeper" end:"1697849734" entry:"1697841085" estimate:"0.25" modified:"1697849734" project:"home" status:"completed" uuid:"68192ef8-7301-4f62-acbe-f99c339cf913"]
+[description:"bathroom" end:"1697849147" entry:"1696720972" estimate:"0.4" modified:"1697849147" project:"bathroom" status:"completed" uuid:"933df212-9fd9-441e-8375-d2bf1e52a1d6"]
+[description:"kitchen" end:"1697849165" entry:"1697840110" estimate:"0.5" modified:"1697849165" project:"home" status:"completed" uuid:"5cc1ca08-0dab-4cab-b935-cb201623d8d3"]
+[description:"clean bathroom" end:"1697849158" entry:"1697841105" estimate:"0.5" modified:"1697849158" project:"home" status:"completed" uuid:"93de893c-3d11-4f6a-93fa-5a6467c0cb99"]
 [description:"8" end:"1697843094" entry:"1697842740" estimate:"0.5" modified:"1697843096" status:"deleted" uuid:"2601e542-6dcf-433c-b3d3-be3b65524e11"]
 [description:"weed garden" end:"1696743717" entry:"1696642008" modified:"1696743717" project:"garden" status:"completed" uuid:"f8a60539-cfa7-4fa8-b6b0-70e17b3a97b9"]
 [description:"purchase spray from bunnings" end:"1696738193" entry:"1696642016" modified:"1696738193" project:"garden" status:"completed" uuid:"d32ae639-2ae2-4d25-976a-d64aa55b0cba"]

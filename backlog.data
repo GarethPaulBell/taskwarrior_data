@@ -154,3 +154,7 @@
 {"description":"kitchen","entry":"20231020T221510Z","estimate":0.5,"modified":"20231020T231228Z","project":"home","status":"pending","uuid":"5cc1ca08-0dab-4cab-b935-cb201623d8d3"}
 {"description":"find plant water beeper","entry":"20231020T223125Z","estimate":0.25,"modified":"20231020T231228Z","project":"home","status":"pending","uuid":"68192ef8-7301-4f62-acbe-f99c339cf913"}
 {"description":"clean bathroom","entry":"20231020T223145Z","estimate":0.5,"modified":"20231020T231228Z","project":"home","status":"pending","uuid":"93de893c-3d11-4f6a-93fa-5a6467c0cb99"}
+{"description":"bathroom","end":"20231021T004547Z","entry":"20231007T232252Z","estimate":0.4,"modified":"20231021T004547Z","project":"bathroom","status":"completed","uuid":"933df212-9fd9-441e-8375-d2bf1e52a1d6"}
+{"description":"clean bathroom","end":"20231021T004558Z","entry":"20231020T223145Z","estimate":0.5,"modified":"20231021T004558Z","project":"home","status":"completed","uuid":"93de893c-3d11-4f6a-93fa-5a6467c0cb99"}
+{"description":"kitchen","end":"20231021T004605Z","entry":"20231020T221510Z","estimate":0.5,"modified":"20231021T004605Z","project":"home","status":"completed","uuid":"5cc1ca08-0dab-4cab-b935-cb201623d8d3"}
+{"description":"find plant water beeper","end":"20231021T005534Z","entry":"20231020T223125Z","estimate":0.25,"modified":"20231021T005534Z","project":"home","status":"completed","uuid":"68192ef8-7301-4f62-acbe-f99c339cf913"}
