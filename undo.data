@@ -582,3 +582,11 @@ time 1697862553
 old [description:"mix up spray" entry:"1697841684" estimate:"0.25" modified:"1697841712" project:"garden" status:"pending" uuid:"ac904fee-19e5-4d33-a5d3-98af2e969943"]
 new [description:"mix up spray" end:"1697862553" entry:"1697841684" estimate:"0.25" modified:"1697862553" project:"garden" status:"completed" uuid:"ac904fee-19e5-4d33-a5d3-98af2e969943"]
 ---
+time 1697864499
+old [description:"experiment with power inputs in kicad" entry:"1696140756" estimate:"1" modified:"1697841334" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"experiment with power inputs in kicad successfully added" entry:"1696140756" estimate:"1" modified:"1697864499" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
+time 1697864526
+old [description:"experiment with power inputs in kicad successfully added" entry:"1696140756" estimate:"1" modified:"1697864499" priority:"L" project:"sytronics.board" status:"pending" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+new [description:"experiment with power inputs in kicad successfully added" end:"1697864526" entry:"1696140756" estimate:"1" modified:"1697864526" priority:"L" project:"sytronics.board" status:"completed" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
+---
