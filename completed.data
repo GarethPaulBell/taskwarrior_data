@@ -1,3 +1,5 @@
+[description:"clothes for next week" end:"1698446559" entry:"1696720991" estimate:"0.3" modified:"1698446559" project:"planning" status:"completed" uuid:"2d96699f-2112-4982-9848-317f4ec9bd53"]
+[description:"spray weeds" end:"1698446547" entry:"1697841695" estimate:"0.75" modified:"1698446547" project:"garden" status:"completed" uuid:"352e3c36-7bd7-46b9-ac95-ee3c66645e2a"]
 [description:"experiment with power inputs in kicad successfully added" end:"1697864526" entry:"1696140756" estimate:"1" modified:"1697864526" priority:"L" project:"sytronics.board" status:"completed" uuid:"e466ecde-2ecd-4454-b5ed-1d061517b83d"]
 [description:"mix up spray" end:"1697862553" entry:"1697841684" estimate:"0.25" modified:"1697862553" project:"garden" status:"completed" uuid:"ac904fee-19e5-4d33-a5d3-98af2e969943"]
 [description:"fix bike" end:"1697862532" entry:"1696120878" estimate:"0.5" modified:"1697862532" project:"home.transport" status:"completed" uuid:"3885cf6f-abc5-4f8c-91bd-c2c58312d9b6"]
