@@ -182,3 +182,11 @@
 {"description":"clean floor","end":"20231028T032046Z","entry":"20231027T224610Z","modified":"20231028T032046Z","project":"home","status":"completed","uuid":"564e7137-5744-4082-8146-3eabf3534885"}
 {"description":"have lunch","end":"20231028T032100Z","entry":"20231027T224628Z","modified":"20231028T032100Z","project":"home","status":"completed","uuid":"e85196cd-f82a-49a7-8415-e86c586bf0bb"}
 {"description":"clean floor","end":"20231028T032107Z","entry":"20231027T224552Z","modified":"20231028T032107Z","status":"completed","uuid":"9c525109-5499-4b3d-9058-3053864a032b"}
+{"description":"hour walk when sun has gone down","end":"20231028T220518Z","entry":"20231027T225052Z","modified":"20231028T220518Z","project":"body","status":"completed","uuid":"3766ad5f-e2d5-42d5-89fc-799ca6b63f73"}
+{"description":"practice mitsuba","entry":"20231028T220605Z","modified":"20231028T220605Z","status":"pending","uuid":"a7d38752-e50e-49ff-b672-ed5b8acb8311"}
+{"description":"tidy office","entry":"20231027T224732Z","estimate":0.5,"modified":"20231028T220744Z","project":"home","status":"pending","uuid":"10c76f30-defd-4619-a936-299cc14c8285"}
+{"description":"relate differential rendering to calculating the derivative in space and forming a solution in that region","end":"20231028T220756Z","entry":"20231027T224941Z","modified":"20231028T220756Z","project":"learning","status":"completed","uuid":"b4390741-884a-431b-984d-a87bc122dc86"}
+{"description":"make notes on right side lengthening video and reasons for spinal bend","entry":"20231027T225032Z","estimate":0.5,"modified":"20231028T220819Z","project":"body","status":"pending","uuid":"c00c721a-d80b-4bfb-9572-f943cf803483"}
+{"description":"practice mitsuba","entry":"20231028T220605Z","estimate":1.5,"modified":"20231028T220839Z","status":"pending","uuid":"a7d38752-e50e-49ff-b672-ed5b8acb8311"}
+{"description":"lunch","entry":"20231028T220910Z","estimate":0.75,"modified":"20231028T220910Z","project":"home","status":"pending","uuid":"cdf410cb-867a-4a69-8b07-6b8fc153f647"}
+{"description":"analysis of luminance situation","entry":"20231028T220938Z","estimate":1.5,"modified":"20231028T220938Z","project":"vizzybell","status":"pending","uuid":"91e275b3-7cf6-4aa7-baf3-6cf211488a51"}
