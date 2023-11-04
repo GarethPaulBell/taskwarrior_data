@@ -190,3 +190,15 @@
 {"description":"practice mitsuba","entry":"20231028T220605Z","estimate":1.5,"modified":"20231028T220839Z","status":"pending","uuid":"a7d38752-e50e-49ff-b672-ed5b8acb8311"}
 {"description":"lunch","entry":"20231028T220910Z","estimate":0.75,"modified":"20231028T220910Z","project":"home","status":"pending","uuid":"cdf410cb-867a-4a69-8b07-6b8fc153f647"}
 {"description":"analysis of luminance situation","entry":"20231028T220938Z","estimate":1.5,"modified":"20231028T220938Z","project":"vizzybell","status":"pending","uuid":"91e275b3-7cf6-4aa7-baf3-6cf211488a51"}
+{"description":"tidy office","end":"20231104T210556Z","entry":"20231027T224732Z","estimate":0.5,"modified":"20231104T210556Z","project":"home","status":"completed","uuid":"10c76f30-defd-4619-a936-299cc14c8285"}
+{"description":"agents tutorial","end":"20231104T210617Z","entry":"20231007T233147Z","estimate":1.5,"modified":"20231104T210619Z","project":"education","status":"completed","uuid":"ddb008d3-9e34-4c67-9748-6c569dd8b457"}
+{"description":"make notes on right side lengthening video and reasons for spinal bend","end":"20231104T210619Z","entry":"20231027T225032Z","estimate":0.5,"modified":"20231104T210619Z","project":"body","status":"completed","uuid":"c00c721a-d80b-4bfb-9572-f943cf803483"}
+{"description":"lunch","end":"20231104T210619Z","entry":"20231028T220910Z","estimate":0.75,"modified":"20231104T210619Z","project":"home","status":"completed","uuid":"cdf410cb-867a-4a69-8b07-6b8fc153f647"}
+{"description":"analysis of luminance situation","end":"20231104T210619Z","entry":"20231028T220938Z","estimate":1.5,"modified":"20231104T210619Z","project":"vizzybell","status":"completed","uuid":"91e275b3-7cf6-4aa7-baf3-6cf211488a51"}
+{"description":"clean kitchen","entry":"20231104T210726Z","modified":"20231104T210726Z","project":"home","status":"pending","uuid":"732b6c44-5a7e-4fa2-8417-4d9e5293edef"}
+{"description":"washing","entry":"20231104T210733Z","modified":"20231104T210733Z","project":"home","status":"pending","uuid":"0877d147-8426-4b49-a75c-04c231bde803"}
+{"description":"clean bathroom","entry":"20231104T210749Z","modified":"20231104T210749Z","project":"home","status":"pending","uuid":"6c73b5c5-2119-49ff-9510-fa7b511bda40"}
+{"description":"install fire alarm","entry":"20231104T210813Z","modified":"20231104T210813Z","project":"home","status":"pending","uuid":"843f8aa7-0d89-411c-8c37-71db400d32c4"}
+{"description":"weed garden","entry":"20231104T210842Z","modified":"20231104T210842Z","project":"home","status":"pending","uuid":"bbf9105c-385a-4362-8b3f-f1ddcdbb0113"}
+{"description":"shave","entry":"20231104T211148Z","modified":"20231104T211148Z","project":"personal","status":"pending","uuid":"71e86d30-707a-4fcd-8030-9fbe7c4f2d48"}
+{"description":"food for next week","entry":"20231104T211202Z","modified":"20231104T211202Z","project":"home","status":"pending","uuid":"6cc97853-ca54-4b61-97ce-bdf08baaf684"}
