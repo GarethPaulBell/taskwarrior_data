@@ -202,3 +202,4 @@
 {"description":"weed garden","entry":"20231104T210842Z","modified":"20231104T210842Z","project":"home","status":"pending","uuid":"bbf9105c-385a-4362-8b3f-f1ddcdbb0113"}
 {"description":"shave","entry":"20231104T211148Z","modified":"20231104T211148Z","project":"personal","status":"pending","uuid":"71e86d30-707a-4fcd-8030-9fbe7c4f2d48"}
 {"description":"food for next week","entry":"20231104T211202Z","modified":"20231104T211202Z","project":"home","status":"pending","uuid":"6cc97853-ca54-4b61-97ce-bdf08baaf684"}
+{"description":"clean kitchen","end":"20231104T224331Z","entry":"20231104T210726Z","modified":"20231104T224331Z","project":"home","status":"completed","uuid":"732b6c44-5a7e-4fa2-8417-4d9e5293edef"}

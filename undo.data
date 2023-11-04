@@ -722,3 +722,7 @@ new [description:"shave" entry:"1699132308" modified:"1699132308" project:"perso
 time 1699132322
 new [description:"food for next week" entry:"1699132322" modified:"1699132322" project:"home" status:"pending" uuid:"6cc97853-ca54-4b61-97ce-bdf08baaf684"]
 ---
+time 1699137811
+old [description:"clean kitchen" entry:"1699132046" modified:"1699132046" project:"home" status:"pending" uuid:"732b6c44-5a7e-4fa2-8417-4d9e5293edef"]
+new [description:"clean kitchen" end:"1699137811" entry:"1699132046" modified:"1699137811" project:"home" status:"completed" uuid:"732b6c44-5a7e-4fa2-8417-4d9e5293edef"]
+---
