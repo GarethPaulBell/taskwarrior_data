@@ -206,3 +206,4 @@
 {"description":"shave","end":"20231104T230051Z","entry":"20231104T211148Z","modified":"20231104T230051Z","project":"personal","status":"completed","uuid":"71e86d30-707a-4fcd-8030-9fbe7c4f2d48"}
 {"description":"washing","end":"20231104T230339Z","entry":"20231104T210733Z","modified":"20231104T230339Z","project":"home","status":"completed","uuid":"0877d147-8426-4b49-a75c-04c231bde803"}
 {"description":"install fire alarm","end":"20231105T000653Z","entry":"20231104T210813Z","modified":"20231105T000653Z","project":"home","status":"completed","uuid":"843f8aa7-0d89-411c-8c37-71db400d32c4"}
+{"description":"clean bathroom","end":"20231105T022320Z","entry":"20231104T210749Z","modified":"20231105T022320Z","project":"home","status":"completed","uuid":"6c73b5c5-2119-49ff-9510-fa7b511bda40"}
