@@ -3,6 +3,3 @@
 [description:"sytronics.board complete board layout" entry:"1697841402" estimate:"1.5" modified:"1697843512" project:"sytronics.board" status:"pending" uuid:"16aea38a-1f13-4f6b-b5c6-5f9266a9d3c2"]
 [description:"sytronics.board order components and board" entry:"1697841425" estimate:"0.75" modified:"1697843512" project:"sytronics.board" status:"pending" uuid:"396ad82d-7c71-4a77-8b49-20afeeda8d1e"]
 [description:"practice mitsuba" entry:"1698530765" estimate:"1.5" modified:"1698530919" status:"pending" uuid:"a7d38752-e50e-49ff-b672-ed5b8acb8311"]
-[description:"clean bathroom" end:"1699151000" entry:"1699132069" modified:"1699151000" project:"home" status:"completed" uuid:"6c73b5c5-2119-49ff-9510-fa7b511bda40"]
-[description:"weed garden" entry:"1699132122" modified:"1699132122" project:"home" status:"pending" uuid:"bbf9105c-385a-4362-8b3f-f1ddcdbb0113"]
-[description:"food for next week" entry:"1699132322" modified:"1699132322" project:"home" status:"pending" uuid:"6cc97853-ca54-4b61-97ce-bdf08baaf684"]

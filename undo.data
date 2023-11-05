@@ -742,3 +742,11 @@ time 1699151000
 old [description:"clean bathroom" entry:"1699132069" modified:"1699132069" project:"home" status:"pending" uuid:"6c73b5c5-2119-49ff-9510-fa7b511bda40"]
 new [description:"clean bathroom" end:"1699151000" entry:"1699132069" modified:"1699151000" project:"home" status:"completed" uuid:"6c73b5c5-2119-49ff-9510-fa7b511bda40"]
 ---
+time 1699155747
+old [description:"weed garden" entry:"1699132122" modified:"1699132122" project:"home" status:"pending" uuid:"bbf9105c-385a-4362-8b3f-f1ddcdbb0113"]
+new [description:"weed garden" end:"1699155747" entry:"1699132122" modified:"1699155747" project:"home" status:"completed" uuid:"bbf9105c-385a-4362-8b3f-f1ddcdbb0113"]
+---
+time 1699155761
+old [description:"food for next week" entry:"1699132322" modified:"1699132322" project:"home" status:"pending" uuid:"6cc97853-ca54-4b61-97ce-bdf08baaf684"]
+new [description:"food for next week" end:"1699155761" entry:"1699132322" modified:"1699155761" project:"home" status:"completed" uuid:"6cc97853-ca54-4b61-97ce-bdf08baaf684"]
+---
