@@ -734,3 +734,7 @@ time 1699139019
 old [description:"washing" entry:"1699132053" modified:"1699132053" project:"home" status:"pending" uuid:"0877d147-8426-4b49-a75c-04c231bde803"]
 new [description:"washing" end:"1699139019" entry:"1699132053" modified:"1699139019" project:"home" status:"completed" uuid:"0877d147-8426-4b49-a75c-04c231bde803"]
 ---
+time 1699142813
+old [description:"install fire alarm" entry:"1699132093" modified:"1699132093" project:"home" status:"pending" uuid:"843f8aa7-0d89-411c-8c37-71db400d32c4"]
+new [description:"install fire alarm" end:"1699142813" entry:"1699132093" modified:"1699142813" project:"home" status:"completed" uuid:"843f8aa7-0d89-411c-8c37-71db400d32c4"]
+---
