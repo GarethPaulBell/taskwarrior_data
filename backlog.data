@@ -203,3 +203,5 @@
 {"description":"shave","entry":"20231104T211148Z","modified":"20231104T211148Z","project":"personal","status":"pending","uuid":"71e86d30-707a-4fcd-8030-9fbe7c4f2d48"}
 {"description":"food for next week","entry":"20231104T211202Z","modified":"20231104T211202Z","project":"home","status":"pending","uuid":"6cc97853-ca54-4b61-97ce-bdf08baaf684"}
 {"description":"clean kitchen","end":"20231104T224331Z","entry":"20231104T210726Z","modified":"20231104T224331Z","project":"home","status":"completed","uuid":"732b6c44-5a7e-4fa2-8417-4d9e5293edef"}
+{"description":"shave","end":"20231104T230051Z","entry":"20231104T211148Z","modified":"20231104T230051Z","project":"personal","status":"completed","uuid":"71e86d30-707a-4fcd-8030-9fbe7c4f2d48"}
+{"description":"washing","end":"20231104T230339Z","entry":"20231104T210733Z","modified":"20231104T230339Z","project":"home","status":"completed","uuid":"0877d147-8426-4b49-a75c-04c231bde803"}
